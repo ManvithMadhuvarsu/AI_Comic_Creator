@@ -43,7 +43,7 @@ The AI agent will guide users through the analysis process, detecting missing co
 ## Installation
 ```bash
 # Clone the repository
-git clone [https://github.com/yourusername/MarketLens.git](https://github.com/ManvithMadhuvarsu/MarketLens_AI-Data_Analytics_Tool)
+git clone https://github.com/ManvithMadhuvarsu/MarketLens_AI-Data_Analytics_Tool
 cd MarketLens
 
 # Create a virtual environment

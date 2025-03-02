@@ -1,0 +1,7 @@
+flask==2.0.1
+Pillow==9.5.0
+torch==2.0.0
+diffusers==0.17.0
+fpdf==1.7.2
+werkzeug==2.0.1
+transformers==4.30.0
